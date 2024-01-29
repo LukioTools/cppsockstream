@@ -1,0 +1,9 @@
+cli file browser
+    -> ability to delete, copy, move, (edit/view permisisions?)
+
+cli low res image viewer
+    -> ability to zoom and move around
+    -> video?
+
+cli glowstick thing
+    -> move cursor around to produce a fading trail
